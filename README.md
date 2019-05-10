@@ -1,5 +1,5 @@
 # Backup-GPObjects
-Powershell function to Backup Group Policy Objects for a Domain or Specific OU
+Powershell script to Backup Group Policy Objects for a Domain or Specific OU
 
 # Requirements
 - Powershell v4
