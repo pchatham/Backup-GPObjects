@@ -1,5 +1,6 @@
 # Backup-GPObjects
 Powershell script to Backup Group Policy Objects for a Domain or Specific OU
+Backs up all Group Policy Objects linked to an OU, Sub-OUs or for the whole domain, Creating a named folder for each GPO, for easier analysis and importing.
 
 # Requirements
 - Powershell v4
